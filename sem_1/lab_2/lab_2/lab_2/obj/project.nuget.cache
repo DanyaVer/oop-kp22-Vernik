@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qwLw1PHdN7xN3TclzaqXXzfdQVmA1zLWs5lTgtPesP0F2ciN5ysb63EHXMlfYEtc4rUfcvBCk7nyA9dd7W3mmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_2\\lab_2\\lab_2\\lab_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dania\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Dania\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Dania\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Dania\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
