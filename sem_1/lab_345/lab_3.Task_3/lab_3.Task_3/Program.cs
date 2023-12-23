@@ -1,6 +1,4 @@
 ﻿using lab_3.Task_3.Data;
-using lab_3.Task_3.Data2;
-
 
 Book book = new Book(new BookData() { Content = "sdasdsd", Author = "asds" });
 
