@@ -9,7 +9,8 @@ namespace lab_3.Task_4.Data.Builder
 {
     public abstract class ReservoirBuilder
     {
-        public abstract ArtificialReservoir result { get; protected set; }
+        protected abstract ArtificialReservoir result { get; set; }
+
         public virtual void BuildPit()
         {
             if (result == null)

@@ -8,7 +8,7 @@ namespace lab_3.Task_4.Data.Reservoirs
 {
     public abstract class ArtificialReservoir
     {
-        public string PitType { get; set; }
+        public virtual string PitType { get; set; }
         public bool IsBuildPit { get; set; }
         public bool IsFilled { get; set; }
         public string FilledWith { get; set; } = "Water";

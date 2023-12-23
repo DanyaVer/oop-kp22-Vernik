@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_3\\lab_3.Task_3\\lab_3.Task_3.csproj": {}
+    "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_3\\lab_3.Task_3\\lab_3.Task_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_3\\lab_3.Task_3\\lab_3.Task_3.csproj": {
+    "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_3\\lab_3.Task_3\\lab_3.Task_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_3\\lab_3.Task_3\\lab_3.Task_3.csproj",
+        "projectUniqueName": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_3\\lab_3.Task_3\\lab_3.Task_3.csproj",
         "projectName": "lab_3.Task_3",
-        "projectPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_3\\lab_3.Task_3\\lab_3.Task_3.csproj",
+        "projectPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_3\\lab_3.Task_3\\lab_3.Task_3.csproj",
         "packagesPath": "C:\\Users\\Dania\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_3\\lab_3.Task_3\\obj\\",
+        "outputPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_3\\lab_3.Task_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dania\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

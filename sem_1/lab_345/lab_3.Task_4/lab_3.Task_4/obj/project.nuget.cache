@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qMYTkzuMSV3ljzAD8FErQngZbWlnAXfoIISCfrrCL0/qniXAjRWbpWsaeOJd8uXYsOwqLJdReEH2MjpuI5MOBQ==",
+  "dgSpecHash": "6aWJIZgjLXx0hGgi/wW6DMKkUNmfCdmst+mGzlRaETxcMRzgaRo4QmEHSJ2FtsPEPnsdBHMO5DHaXv0alqr+QQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_4\\lab_3.Task_4\\lab_3.Task_4.csproj",
+  "projectFilePath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_4\\lab_3.Task_4\\lab_3.Task_4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dania\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\Dania\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",

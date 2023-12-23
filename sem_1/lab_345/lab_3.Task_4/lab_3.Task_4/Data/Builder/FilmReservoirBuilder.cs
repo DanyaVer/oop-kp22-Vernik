@@ -9,6 +9,24 @@ namespace lab_3.Task_4.Data.Builder
 {
     public class FilmReservoirBuilder : ReservoirBuilder
     {
-        public override ArtificialReservoir result { get; protected set; } = new FilmArtificialReservoir();
+        protected override ArtificialReservoir result { get; set; } = new FilmArtificialReservoir();
+
+        public FilmReservoirBuilder()
+        {
+            Reset();
+        }
+        public void Reset()
+        {
+            result = new FilmArtificialReservoir();
+        }
+
+        public FilmArtificialReservoir GetProduct()
+        {
+            FilmArtificialReservoir product = (FilmArtificialReservoir)result;
+
+            Reset();
+
+            return product;
+        }
     }
 }

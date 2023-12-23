@@ -10,7 +10,7 @@ namespace lab_3.Task_6.Data.ChainOfResponsibility
     public class CheckingPlatform
     {
         List<Paper> papers = new List<Paper>();
-        public async Task<bool> CheckStudentPaper(Teacher teacher)
+        public async Task<bool> CheckStudentPaper(IChecker teacher)
         {
             if (teacher == null) 
                 return false;

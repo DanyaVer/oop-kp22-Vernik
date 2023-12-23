@@ -14,12 +14,12 @@ namespace lab_3.Task_1.Data
     public class StudentGroup : StudentGroupAbstract
     {
         public string Group { get; set; }
+        protected List<StudentGroupAbstract> _students = new List<StudentGroupAbstract>();
         public StudentGroup(string group)
         {
             Group = group;
         }
 
-        protected List<StudentGroupAbstract> _students = new List<StudentGroupAbstract>();
 
         public override void Add(StudentGroupAbstract studentGroup)
         {

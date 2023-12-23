@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "H8FzlhZiPPlODkp0Q3L93yXxXWduR9YOhdddWqRdw26kcrIT3GMYSZwSAKT399lfhwtrle3ruqVrY/OWNHZMlg==",
+  "dgSpecHash": "2ofVp02QSpWIcyEpn8/qjiz2HmJ1HyFR8l4gnwoBKrV0A0WzeMiIniUeGwFdCnzvJSVWtrXkGuJuSTG7Oznwxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_3\\lab_3.Task_3\\lab_3.Task_3.csproj",
+  "projectFilePath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_3\\lab_3.Task_3\\lab_3.Task_3.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dania\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Dania\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\Dania\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\Dania\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",

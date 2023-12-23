@@ -13,6 +13,6 @@ namespace lab_3.Task_3.Data
         public string Series { get; set; }
         public string EditionNumber { get; set; }
 
-        public string Content { get; set; }  
+        public string Content { get; set; }
     }
 }

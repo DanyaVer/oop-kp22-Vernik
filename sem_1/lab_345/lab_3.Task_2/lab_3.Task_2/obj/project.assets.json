@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_2\\lab_3.Task_2\\lab_3.Task_2.csproj",
+      "projectUniqueName": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_2\\lab_3.Task_2\\lab_3.Task_2.csproj",
       "projectName": "lab_3.Task_2",
-      "projectPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_2\\lab_3.Task_2\\lab_3.Task_2.csproj",
+      "projectPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_2\\lab_3.Task_2\\lab_3.Task_2.csproj",
       "packagesPath": "C:\\Users\\Dania\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_2\\lab_3.Task_2\\obj\\",
+      "outputPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_2\\lab_3.Task_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dania\\AppData\\Roaming\\NuGet\\NuGet.Config",

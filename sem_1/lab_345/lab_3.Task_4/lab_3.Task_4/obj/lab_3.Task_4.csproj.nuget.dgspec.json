@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_4\\lab_3.Task_4\\lab_3.Task_4.csproj": {}
+    "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_4\\lab_3.Task_4\\lab_3.Task_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_4\\lab_3.Task_4\\lab_3.Task_4.csproj": {
+    "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_4\\lab_3.Task_4\\lab_3.Task_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_4\\lab_3.Task_4\\lab_3.Task_4.csproj",
+        "projectUniqueName": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_4\\lab_3.Task_4\\lab_3.Task_4.csproj",
         "projectName": "lab_3.Task_4",
-        "projectPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_4\\lab_3.Task_4\\lab_3.Task_4.csproj",
+        "projectPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_4\\lab_3.Task_4\\lab_3.Task_4.csproj",
         "packagesPath": "C:\\Users\\Dania\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_3\\lab_3.Task_4\\lab_3.Task_4\\obj\\",
+        "outputPath": "C:\\Users\\Dania\\source\\repos\\University\\OOP\\sem_1\\lab_345\\lab_3.Task_4\\lab_3.Task_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dania\\AppData\\Roaming\\NuGet\\NuGet.Config",

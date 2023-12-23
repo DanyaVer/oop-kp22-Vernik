@@ -9,6 +9,24 @@ namespace lab_3.Task_4.Data.Builder
 {
     public class ConcreteReservoirBuilder : ReservoirBuilder
     {
-        public override ArtificialReservoir result { get; protected set; } = new ConcreteArtificialReservoir();
+        protected override ArtificialReservoir result { get; set; } = new ConcreteArtificialReservoir();
+
+        public ConcreteReservoirBuilder()
+        {
+            Reset();
+        }
+        public void Reset()
+        {
+            result = new ConcreteArtificialReservoir();
+        }
+
+        public ConcreteArtificialReservoir GetProduct()
+        {
+            ConcreteArtificialReservoir product = (ConcreteArtificialReservoir)result;
+
+            Reset();
+
+            return product;
+        }
     }
 }
